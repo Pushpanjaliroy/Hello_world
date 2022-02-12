@@ -1,2 +1,4 @@
 # Hello_world
-hello repository
+class Hello{
+ System.out.println("Hello World");
+ }
